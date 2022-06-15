@@ -1,0 +1,12 @@
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\bin\Debug\net6.0\Project.Customer.Model.deps.json
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\bin\Debug\net6.0\Project.Customer.Model.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\bin\Debug\net6.0\ref\Project.Customer.Model.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\bin\Debug\net6.0\Project.Customer.Model.pdb
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\ref\Project.Customer.Model.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Model\obj\Debug\net6.0\Project.Customer.Model.pdb

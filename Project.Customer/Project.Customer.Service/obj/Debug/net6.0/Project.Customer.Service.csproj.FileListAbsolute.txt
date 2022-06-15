@@ -1,0 +1,15 @@
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\Project.Customer.Service.deps.json
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\Project.Customer.Service.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\ref\Project.Customer.Service.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\Project.Customer.Service.pdb
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\Project.Customer.Model.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\bin\Debug\net6.0\Project.Customer.Model.pdb
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.csproj.CopyComplete
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\ref\Project.Customer.Service.dll
+E:\CodeBox\Project-Estudos\GitHub\C11-MiddlewareStatusCode\Project.Customer\Project.Customer.Service\obj\Debug\net6.0\Project.Customer.Service.pdb
